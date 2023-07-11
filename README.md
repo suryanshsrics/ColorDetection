@@ -58,4 +58,5 @@ python color_detection.py -i <add your image path here>
 
 
 
-![Screenshot (69)](https://github.com/suryanshsrics/ColorDetection/assets/118303765/029843e9-2d17-47f3-88a2-a49f0c78e683)
+![Screenshot (68)](https://github.com/suryanshsrics/ColorDetection/assets/118303765/aacb9b90-9d41-40c7-a752-6275e445a550)
+
